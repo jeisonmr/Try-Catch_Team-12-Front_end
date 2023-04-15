@@ -91,7 +91,7 @@
       },
       {
             "titulo": "Capitan America",
-            "genero":["acción",""],
+            "genero":["acción"],
             "año":"",
             "director":"",
             "calificacion":"",
@@ -131,7 +131,7 @@
       },
       {
             "titulo": "Doctor Strange Multiverse of Magness",
-            "genero":["acción",""],
+            "genero":["acción"],
             "año":"",
             "director":"",
             "calificacion":"",
@@ -151,7 +151,7 @@
       },
       {
             "titulo": "Eternals",
-            "genero":["Aventura",""],
+            "genero":["Aventura"],
             "año":"",
             "director":"",
             "calificacion":"",
@@ -191,7 +191,7 @@
       },
       {
             "titulo": "Iron Man 2",
-            "genero":["aventura",""],
+            "genero":["aventura"],
             "año":"",
             "director":"",
             "calificacion":"",
@@ -241,7 +241,7 @@
       },
       {
             "titulo": "Shang-Chi",
-            "genero":["acción",""],
+            "genero":["acción"],
             "año":"",
             "director":"",
             "calificacion":"",
@@ -251,7 +251,7 @@
       },
       {
             "titulo": "Spider Man Far From Home",
-            "genero":["acción",""],
+            "genero":["acción"],
             "año":"",
             "director":"",
             "calificacion":"",
@@ -261,7 +261,7 @@
       },
       {
             "titulo": "Spider Man Home Comming",
-            "genero":["acción",""],
+            "genero":["acción"],
             "año":"",
             "director":"",
             "calificacion":"",
@@ -271,7 +271,7 @@
       },
       {
             "titulo": "Spider Man No Way Home",
-            "genero":["aventura",""],
+            "genero":["aventura"],
             "año":"",
             "director":"",
             "calificacion":"",
@@ -291,7 +291,7 @@
       },
       {
             "titulo": "Thor Love and Thunder",
-            "genero":["aventura",""],
+            "genero":["aventura"],
             "año":"",
             "director":"",
             "calificacion":"",
@@ -301,7 +301,7 @@
       },
       {
             "titulo": "Zootopia",
-            "genero":["aventura","animada"],
+            "genero":["lol"],
             "año":"",
             "director":"",
             "calificacion":"",
